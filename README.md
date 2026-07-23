@@ -97,7 +97,7 @@ SELECT * FROM hr.employees;</code>
   
 <code>**sql**  
   
-SELECT * FROM shop_db.dbo.orders;<code>  
+SELECT * FROM shop_db.dbo.orders;</code>  
   
 **4. Повний шлях (Сервер + База даних + Схема + Таблиця)**  
   
@@ -105,5 +105,5 @@ SELECT * FROM shop_db.dbo.orders;<code>
   
 <code>**sql**  
   
-SELECT * FROM mssql_server_01.sales_db.sales.transactions;<code>  
+SELECT * FROM mssql_server_01.sales_db.sales.transactions;</code>  
   
